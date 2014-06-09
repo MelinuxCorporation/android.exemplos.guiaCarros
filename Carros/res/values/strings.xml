@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Texto para Configuração -->
+    <string name="appName">Carros</string>
+    <string name="appActionSettings">Configurações</string>
+    <string name="appCopyright">copyright © 2014</string>
+    
+    <!-- Texto para Erros e Excessões -->
+    <string name="ErroConexao">Conexão Indisponivel</string>
+    <string name="ErroSistem">Sistema Indiposnivel</string>
+    
+    <!-- Texto para Labels -->
+    <string name="labelClassicos">Classicos</string>
+    <string name="labelLuxo">Luxosos</string>
+    <string name="labelEsportivos">Esportivos</string>
+    <string name="labelSobre">Sobre</string>
+    <string name="labelEntrar">Entrar</string>
+    
+    <!-- Textos para Descrições de Componentes -->
+    <string name="Description_Image">Imagem</string>
+    
+	<!-- Textos -->
+	<string name="Aguarde">Aguarde</string>
+	<string name="Nome">Nome</string>
+    
+</resources>

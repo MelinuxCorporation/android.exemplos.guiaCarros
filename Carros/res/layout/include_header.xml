@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" 
+    android:id="@+id/layoutHeader"
+    android:layout_width="fill_parent"
+    android:layout_height="55dp"
+    android:gravity="center"
+    android:background="@drawable/shape_header">
+    
+	
+    <TextView 
+        android:id="@+id/textView_Header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/appName"
+        android:gravity="center"
+        android:textColor="@color/Branco"
+        />
+    	<!--  style="@style/textoPadraoNegrito"-->
+    
+</LinearLayout>

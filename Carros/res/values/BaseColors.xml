@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="Background">#ffffff</color>
+    <color name="Transparente">#00000000</color>
+    
+    <color name="Vermelho">#ff0000</color>
+    <color name="Amarelo">#ffA500</color>
+    <color name="Branco">#ffffff</color>
+    <color name="Preto">#000000</color>
+    <color name="Cinza">#cccccc</color>
+    <color name="Verde">#ff00ff</color>    
+    <color name="Azul">#0000ff</color>
+        
+</resources>
