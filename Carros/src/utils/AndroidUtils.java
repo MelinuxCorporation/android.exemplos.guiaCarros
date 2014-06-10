@@ -1,5 +1,6 @@
 package utils;
 
+import android.R;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -26,7 +27,7 @@ public class AndroidUtils {
 	@SuppressWarnings("deprecation")
 	public static void AlertDialog(final Context context, final int mensagem){
 		try{
-			AlertDialog dialog = new AlertDialog.Builder(context).setTitle(context.getString(com.livroandroid.carros.R.string.appName)).setMessage(mensagem).create();
+			AlertDialog dialog = new AlertDialog.Builder(context).setTitle(context.getString(R.string.appName)).setMessage(mensagem).create();
 			dialog.setButton("OK", new DialogInterface.OnClickListener() {
 				
 				@Override
